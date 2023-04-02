@@ -1,0 +1,18 @@
+[{
+    "ApplicableVersion": "すべて",
+    "AssemblyVersion": "0.1.8.0",
+    "著者": "ライチ",
+    "DalamudApiLevel": 8,
+    "説明": "ACT の戦闘ログ データを表示するプラグイン。",
+    "ダウンロード数": 0,
+    "DownloadLinkInstall": "https://github.com/lichie567/LMeter/releases/download/0.1.8.0/LMeter.zip",
+    "DownloadLinkTesting": "https://github.com/lichie567/LMeter/releases/download/0.1.8.0/LMeter.zip",
+    "DownloadLinkUpdate": "https://github.com/lichie567/LMeter/releases/download/0.1.8.0/LMeter.zip",
+    "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png",
+    "InternalName": "LMeter",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "負荷優先度": 69420,
+    "名前": "LMeter",
+    "RepoUrl": "https://github.com/lichie567/LMeter"
+}]
